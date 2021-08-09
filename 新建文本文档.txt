@@ -4,3 +4,6 @@ https://cdn.jsdelivr.net/gh/happy2h/index-component/font-awesome.css
 https://cdn.jsdelivr.net/gh/happy2h/index-component/style.css
 https://cdn.jsdelivr.net/gh/happy2h/index-component/skel.js
 https://cdn.jsdelivr.net/gh/happy2h/index-component/util.js
+https://cdn.jsdelivr.net/gh/happy2h/index-component/respond.js
+https://cdn.jsdelivr.net/gh/happy2h/index-component/FZXiJinLJW.TTF
+https://cdn.jsdelivr.net/gh/happy2h/index-component/jiangxizuokai.ttf

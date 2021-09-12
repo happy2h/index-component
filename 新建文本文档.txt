@@ -5,5 +5,6 @@ https://cdn.jsdelivr.net/gh/happy2h/index-component/style.css
 https://cdn.jsdelivr.net/gh/happy2h/index-component/skel.js
 https://cdn.jsdelivr.net/gh/happy2h/index-component/util.js
 https://cdn.jsdelivr.net/gh/happy2h/index-component/respond.js
-https://cdn.jsdelivr.net/gh/happy2h/index-component/FZXiJinLJW.TTF
-https://cdn.jsdelivr.net/gh/happy2h/index-component/jiangxizuokai.ttf
+https://cdn.jsdelivr.net/gh/happy2h/index-component@1.2/FZXiJinLJW.TTF
+https://cdn.jsdelivr.net/gh/happy2h/index-component@1.2/jiangxizuokai.ttf
+https://cdn.jsdelivr.net/gh/happy2h/index-component@1.3/blog.mp3
